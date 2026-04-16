@@ -37,11 +37,12 @@ h1 {
     max-width: 1000px;
 #p3{
     border: 20px;
-    background: rgb(190, 233, 189);
-    color: rgb(55, 75, 90);
+    background: navy-blue(#000080);
+    color: white;
     font-size: 120%;
     margin: 20px;
     max-width: 1000px;
+}
     
 img{
     max-width: 100px;
